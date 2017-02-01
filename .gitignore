@@ -5,3 +5,6 @@ bin/*
 
 # os files
 .DS_Store
+
+# editor files
+*.swp
