@@ -1,6 +1,7 @@
 # c++ files and binaries
 *.out
 bin/*
+*.bin
 
 # os files
 .DS_Store
